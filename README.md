@@ -6,21 +6,12 @@
 
 ##  Table of Contents
 
-- [Live Demo](#live-demo)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Tech Stack](#tech-stack)
 - [Environment Variables](#environment-variables)
 - [License](#license)
-
----
-
-##  Live Demo
-
-Experience the app in action here:
-
-**Live Demo:** [NewsMag Demo](https://harshallyy.github.io/News-Mag/)
 
 ---
 
