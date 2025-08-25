@@ -26,3 +26,7 @@
 | **Powered by React & Vite** | Fast development experience powered by modern tooling. |
 
 ---
+## Screenshots
+
+<img width="1366" height="721" alt="Screenshot 2025-08-25 093823" src="https://github.com/user-attachments/assets/f1e2a813-ab7c-40e9-8382-18ed700e397d" />
+<img width="1337" height="629" alt="Screenshot 2025-08-25 093750" src="https://github.com/user-attachments/assets/63011742-4300-4f49-bd3b-9db32cc00e93" />
